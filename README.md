@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text](Commit Count)
 <img src="http://adian.pythonanywhere.com/commits?username=AdianKozlica">
