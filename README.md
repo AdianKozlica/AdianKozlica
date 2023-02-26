@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Contribution count chart:
-<img src="http://adian.pythonanywhere.com/commits?username=AdianKozlica&test=ht34">
