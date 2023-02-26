@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Contribution count chart:
-<img src="http://adian.pythonanywhere.com/commits?username=AdianKozlica&test=hi">
+<img src="http://adian.pythonanywhere.com/commits?username=AdianKozlica">
