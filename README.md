@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="http://adian.pythonanywhere.com/commits?username=AdianKozlica">
+<img src="http://adian.pythonanywhere.com/commits?username=AdianKozlica&test=hi">
