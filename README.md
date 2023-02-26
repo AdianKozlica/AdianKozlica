@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Contribution count chart:
 <img src="http://adian.pythonanywhere.com/commits?username=AdianKozlica&test=hi">
